@@ -1,6 +1,6 @@
 YOLO (You Only Look Once) is a very powerful and a fast algorithm in object detection. A strong understanding of the algorithm is essential before we start to code.
 
-It contains three files:
+It contains three files(inside yolo-coco folder):
     [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names),
     [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg),
     [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
